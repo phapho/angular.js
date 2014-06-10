@@ -14,7 +14,7 @@
     "grunt-contrib-copy": "~0.4.1",
     "grunt-contrib-jshint": "~0.7.2",
     "grunt-ddescribe-iit": "~0.0.1",
-    "grunt-jasmine-node": "git clone https://github.com/vojtajina/grunt-jasmine-node.git#fix-grunt-exit-code",
+    "grunt-jasmine-node": "git://github.com/vojtajina/grunt-jasmine-node.git#fix-grunt-exit-code",
     "grunt-jscs-checker": "~0.4.0",
     "grunt-merge-conflict": "~0.0.1",
     "grunt-parallel": "~0.3.1",
